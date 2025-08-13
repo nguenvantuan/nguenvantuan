@@ -1,0 +1,314 @@
+[
+    {
+        "ten_truong": "Ajou University",
+        "dia_chi": "206 World Cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Hàn Quốc",
+        "mo_ta": "Ajou University là một trường đại học nghiên cứu hàng đầu tọa lạc tại Suwon, Gyeonggi-do, Hàn Quốc. Được thành lập vào năm 1973, trường nổi tiếng về các chương trình kỹ thuật, công nghệ thông tin và y học. Ajou University có một khuôn viên hiện đại và thu hút sinh viên từ khắp nơi trên thế giới.",
+        "website": "www.ajou.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Chonnam",
+        "dia_chi": "77 Yongbong-ro, Buk-gu, Gwangju, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Chonnam là một trong mười trường đại học quốc gia hàng đầu tại Hàn Quốc, tọa lạc tại Gwangju. Trường nổi tiếng với chất lượng giáo dục xuất sắc và các chương trình nghiên cứu đa dạng, đóng vai trò quan trọng trong phát triển khu vực và quốc gia.",
+        "website": "http://global.jnu.ac.kr"
+    },
+    {
+        "ten_truong": "Chosun University",
+        "dia_chi": "309 Pilmun-daero, Dong-gu, Gwangju, South Korea",
+        "mo_ta": "Chosun University là một trường đại học tư thục toàn diện nằm ở Gwangju, Hàn Quốc. Được thành lập vào năm 1946, đây là một trong những trường đại học lâu đời nhất và lớn nhất trong khu vực, nổi tiếng với nhiều ngành học và chương trình nghiên cứu. Trường có các khoa về kỹ thuật, khoa học tự nhiên, nghệ thuật, y học, v.v.",
+        "website": "http://www.chosun.ac.kr"
+    },
+    {
+        "ten_truong": "Chung-Ang University",
+        "dia_chi": "84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea",
+        "mo_ta": "Trường Đại học Chung-Ang là một trong những trường đại học tư thục hàng đầu tại Hàn Quốc, nổi tiếng với các chương trình học thuật xuất sắc, đặc biệt là trong lĩnh vực nghệ thuật, truyền thông, kịch nghệ, điện ảnh và dược học. Trường có lịch sử lâu đời, được thành lập vào năm 1918. Chung-Ang University cam kết đào tạo những cá nhân có năng lực và đóng góp tích cực cho xã hội.",
+        "website": "https://neweng.cau.ac.kr/index.do"
+    },
+    {
+        "ten_truong": "Chungbuk National University",
+        "dia_chi": "1 Chungdae-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do, Republic of Korea",
+        "mo_ta": "Đại học Quốc gia Chungbuk là một trong mười đại học quốc gia hàng đầu của Hàn Quốc, được thành lập năm 1951 tại Cheongju, tỉnh Chungcheongbuk. Trường nổi tiếng với các chương trình học thuật và nghiên cứu mạnh mẽ.",
+        "website": "www.chungbuk.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Chungnam",
+        "dia_chi": "99 Daehak-ro, Yuseong-gu, Daejeon, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Chungnam (CNU) là một trong mười trường đại học quốc gia hàng đầu của Hàn Quốc, tọa lạc tại thành phố Daejeon. Trường được thành lập vào năm 1952. CNU nổi tiếng với các chương trình đào tạo mạnh về kỹ thuật, khoa học tự nhiên và nông nghiệp.",
+        "website": "www.cnu.ac.kr"
+    },
+    {
+        "ten_truong": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+        "dia_chi": "333 Techno Jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, Republic of Korea",
+        "mo_ta": "Viện Khoa học và Công nghệ Daegu Gyeongbuk (DGIST) là một trường đại học nghiên cứu hàng đầu tại Hàn Quốc, chuyên về khoa học và công nghệ. Trường được thành lập bởi chính phủ Hàn Quốc nhằm thúc đẩy nghiên cứu và đổi mới trong các lĩnh vực khoa học kỹ thuật.",
+        "website": "www.dgist.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Dankook",
+        "dia_chi": "152 Jukjeon-ro, Suji-gu, Yongin-si, Gyeonggi-do, Hàn Quốc (Cơ sở Jukjeon)",
+        "mo_ta": "Đại học Dankook là một trường đại học nghiên cứu tư thục hàng đầu tại Hàn Quốc, được thành lập vào năm 1947. Đây là trường đại học bốn năm đầu tiên được thành lập sau khi Hàn Quốc giành độc lập. Trường nổi tiếng với các chương trình đào tạo mạnh mẽ về nghệ thuật, kỹ thuật và nhân văn, và có hai cơ sở chính tại Jukjeon và Cheonan.",
+        "website": "https://www.dankook.ac.kr/web/international"
+    },
+    {
+        "ten_truong": "Dongguk University",
+        "dia_chi": "30, Pildong-ro 1-gil, Jung-gu, Seoul, Republic of Korea",
+        "mo_ta": "Đại học Dongguk là một trong những trường đại học tư thục hàng đầu ở Hàn Quốc, nổi tiếng với nền tảng Phật giáo và sự xuất sắc trong nhiều lĩnh vực học thuật. Trường được thành lập vào năm 1906 và có các cơ sở tại Seoul và Gyeongju.",
+        "website": "https://www.dongguk.edu/"
+    },
+    {
+        "ten_truong": "Ewha Womans University",
+        "dia_chi": "52 Ewhayeodae-gil, Seodaemun-gu, Seoul, South Korea",
+        "mo_ta": "Ewha Womans University là một trường đại học tư thục dành riêng cho nữ sinh, được thành lập năm 1886 bởi Mary F. Scranton. Đây là một trong những học viện giáo dục đại học lâu đời và uy tín nhất tại Hàn Quốc, nổi tiếng về chất lượng giáo dục và đóng góp vào sự phát triển của phụ nữ trong nhiều lĩnh vực.",
+        "website": "http://www.ewha.ac.kr"
+    },
+    {
+        "ten_truong": "Gachon University",
+        "dia_chi": "1342 Seongnam-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do, Hàn Quốc",
+        "mo_ta": "Gachon University là một trường đại học tư thục hàng đầu tại Hàn Quốc, nổi tiếng với các chương trình đào tạo đa dạng và nghiên cứu tiên tiến trong nhiều lĩnh vực như y học, công nghệ thông tin, kỹ thuật và nghệ thuật. Trường được thành lập vào năm 2012 thông qua sự sáp nhập của Đại học Gachon cũ và Đại học Kyungwon, tạo nên một cơ sở giáo dục toàn diện với cam kết đổi mới và phát triển.",
+        "website": "www.gachon.ac.kr"
+    },
+    {
+        "ten_truong": "Gwangju Institute of Science and Technology (GIST)",
+        "dia_chi": "123 Cheomdangwagi-ro, Buk-gu, Gwangju 61005, Republic of Korea",
+        "mo_ta": "Viện Khoa học và Công nghệ Gwangju (GIST) là một trong những viện nghiên cứu và giáo dục hàng đầu của Hàn Quốc, chuyên sâu về khoa học và kỹ thuật. GIST nổi tiếng với chất lượng nghiên cứu cao, cơ sở vật chất hiện đại và môi trường học thuật sáng tạo. Viện tập trung vào việc đào tạo các nhà khoa học và kỹ sư có năng lực cao, góp phần vào sự phát triển công nghệ và đổi mới.",
+        "website": "www.gist.ac.kr"
+    },
+    {
+        "ten_truong": "Gyeongsang National University",
+        "dia_chi": "501 Jinju-daero, Jinju-si, Gyeongsangnam-do, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Gyeongsang là một trong mười trường đại học quốc gia hàng đầu của Hàn Quốc, nổi bật với các chương trình nghiên cứu và giáo dục chất lượng cao trong nhiều lĩnh vực, đặc biệt là khoa học tự nhiên, nông nghiệp, và kỹ thuật biển. Trường cam kết đào tạo ra những nhà lãnh đạo và chuyên gia có năng lực cho tương lai.",
+        "website": "www.gnu.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Hallym",
+        "dia_chi": "1 Hallymdaehak-gil, Chuncheon-si, Gangwon-do, Hàn Quốc",
+        "mo_ta": "Đại học Hallym là một trường đại học tư thục hàng đầu nằm ở Chuncheon, tỉnh Gangwon, Hàn Quốc. Trường nổi tiếng về các ngành y tế, khoa học đời sống và công nghệ thông tin. Hallym có các bệnh viện liên kết lớn, cung cấp cơ hội nghiên cứu và thực hành y khoa xuất sắc. Trường cam kết thúc đẩy nghiên cứu liên ngành và giáo dục toàn diện, chuẩn bị cho sinh viên những kỹ năng cần thiết cho tương lai.",
+        "website": "http://english.hallym.ac.kr/"
+    },
+    {
+        "ten_truong": "Hankuk University of Foreign Studies",
+        "dia_chi": "107 Imun-ro, Dongdaemun-gu, Seoul, Republic of Korea",
+        "mo_ta": "Hankuk University of Foreign Studies (HUFS) là một trong những trường đại học hàng đầu tại Hàn Quốc, nổi tiếng về đào tạo ngoại ngữ và nghiên cứu quốc tế. Trường cung cấp một loạt các chương trình học về ngôn ngữ, văn hóa, quan hệ quốc tế và kinh doanh toàn cầu, thu hút sinh viên từ khắp nơi trên thế giới.",
+        "website": "www.hufs.ac.kr"
+    },
+    {
+        "ten_truong": "Hanseo University",
+        "dia_chi": "46 Hanseo 1-ro, Haemi-myeon, Seosan-si, Chungcheongnam-do, Hàn Quốc",
+        "mo_ta": "Hanseo University là một trường đại học tư thục hàng đầu tại Hàn Quốc, được thành lập vào năm 1992. Trường nổi tiếng với các chương trình đào tạo chuyên sâu trong lĩnh vực hàng không, thiết kế, nghệ thuật và khoa học y tế, cam kết cung cấp giáo dục chất lượng cao và môi trường học tập tiên tiến.",
+        "website": "https://www.hanseo.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Hanyang",
+        "dia_chi": "222 Wangsimni-ro, Seongdong-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Hanyang là một trường đại học nghiên cứu tư thục hàng đầu tại Hàn Quốc, được thành lập năm 1939. Trường nổi tiếng về các chương trình kỹ thuật, kiến trúc và kinh doanh. Với hai cơ sở chính ở Seoul và Ansan, Hanyang được công nhận là một trong những trường đại học danh giá và đổi mới nhất, đóng góp lớn vào sự phát triển khoa học công nghệ của quốc gia.",
+        "website": "www.hanyang.ac.kr"
+    },
+    {
+        "ten_truong": "Hanyang University ERICA",
+        "dia_chi": "55 Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, South Korea",
+        "mo_ta": "Hanyang University ERICA (Education Research Industry Cluster at Ansan) là một trong hai cơ sở chính của Đại học Hanyang, tọa lạc tại Ansan, Gyeonggi-do, Hàn Quốc. Cơ sở này nổi tiếng với sự kết hợp chặt chẽ giữa giáo dục, nghiên cứu và công nghiệp, tập trung vào các lĩnh vực kỹ thuật, khoa học tự nhiên, nghệ thuật và thiết kế. ERICA đóng vai trò quan trọng trong việc thúc đẩy đổi mới công nghệ và phát triển công nghiệp địa phương.",
+        "website": "https://www.hanyang.ac.kr/web/eng/home"
+    },
+    {
+        "ten_truong": "Hongik University",
+        "dia_chi": "94 Wausan-ro, Mapo-gu, Seoul, South Korea",
+        "mo_ta": "Hongik University là một trường đại học tư thục nổi tiếng ở Hàn Quốc, được thành lập vào năm 1946. Trường nổi bật về các ngành nghệ thuật và thiết kế, kiến trúc, kỹ thuật và khoa học xã hội. Với cơ sở chính tại Seoul, trường có uy tín cao trong việc đào tạo các chuyên gia sáng tạo và đổi mới.",
+        "website": "https://www.hongik.ac.kr/"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Incheon",
+        "dia_chi": "125 Academy-ro, Yeonsu-gu, Incheon, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Incheon (INU) là một trường đại học công lập hàng đầu tại Hàn Quốc, tọa lạc tại Thành phố Quốc tế Songdo, Incheon. Trường nổi bật với các chương trình nghiên cứu tiên tiến, quan hệ đối tác quốc tế mạnh mẽ và cam kết cung cấp giáo dục chất lượng cao, đóng góp vào sự phát triển đổi mới của khu vực.",
+        "website": "www.inu.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Inha",
+        "dia_chi": "100 Inha-ro, Michuhol-gu, Incheon, Hàn Quốc",
+        "mo_ta": "Đại học Inha là một trường đại học nghiên cứu tư thục nằm ở Incheon, Hàn Quốc. Được thành lập vào năm 1954 bởi Tổng thống đầu tiên của Hàn Quốc, Syngman Rhee, trường có mục tiêu đào tạo các nhà lãnh đạo trong lĩnh vực khoa học và công nghệ. Trường nổi tiếng với các chương trình kỹ thuật và công nghệ thông tin.",
+        "website": "www.inha.ac.kr"
+    },
+    {
+        "ten_truong": "Jeju National University",
+        "dia_chi": "102 Jejudaehak-ro, Jeju-si, Jeju-do, South Korea",
+        "mo_ta": "Đại học Quốc gia Jeju (JNU) là một trường đại học công lập nằm tại thành phố Jeju, Hàn Quốc. Được thành lập vào năm 1952, trường nổi tiếng với các nghiên cứu trong các lĩnh vực liên quan đến đảo Jeju như khoa học biển, du lịch và nông nghiệp cận nhiệt đới. Trường đóng vai trò quan trọng trong giáo dục và sự phát triển của khu vực.",
+        "website": "http://www.jejunu.ac.kr/"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Jeonbuk (Jeonbuk National University)",
+        "dia_chi": "567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Jeonbuk (JBNU) là một trong mười trường đại học quốc gia hàng đầu tại Hàn Quốc, được thành lập vào năm 1947. Nằm ở Jeonju, tỉnh Jeollabuk-do, trường nổi tiếng với các chương trình nghiên cứu và giảng dạy xuất sắc trong nhiều lĩnh vực, bao gồm kỹ thuật, nông nghiệp, khoa học tự nhiên và nhân văn. JBNU có khuôn viên rộng lớn với cơ sở vật chất hiện đại, thu hút sinh viên từ khắp nơi trên thế giới. Trường cam kết thúc đẩy đổi mới, nghiên cứu và giáo dục toàn diện để đóng góp vào sự phát triển của khu vực và quốc gia.",
+        "website": "http://www.jbnu.ac.kr/eng/"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Kangwon",
+        "dia_chi": "1 Kangwondaehak-gil, Chuncheon-si, Gangwon-do, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Kangwon là một trong mười đại học quốc gia hàng đầu của Hàn Quốc, nổi tiếng với các chương trình đào tạo đa dạng và hoạt động nghiên cứu xuất sắc. Trường cam kết đào tạo nhân tài và đóng góp vào sự phát triển của khu vực và quốc gia.",
+        "website": "www.kangwon.ac.kr"
+    },
+    {
+        "ten_truong": "Konkuk University",
+        "dia_chi": "120 Neungdong-ro, Gwangjin-gu, Seoul, South Korea",
+        "mo_ta": "Đại học Konkuk là một trong những trường đại học tư thục hàng đầu tại Hàn Quốc, nổi tiếng với các chương trình đào tạo chất lượng cao trong nhiều lĩnh vực như kỹ thuật, khoa học tự nhiên, nghệ thuật, luật và kinh doanh. Trường có hai cơ sở chính tại Seoul và Chungju, với cơ sở Seoul được biết đến với khuôn viên xanh mát và hiện đại, bao gồm cả hồ Ilgam. Đại học Konkuk cam kết thúc đẩy nghiên cứu và đổi mới, đồng thời cung cấp một môi trường học tập quốc tế năng động cho sinh viên từ khắp nơi trên thế giới.",
+        "website": "www.konkuk.ac.kr"
+    },
+    {
+        "ten_truong": "Kookmin University",
+        "dia_chi": "77 Jeongneung-ro, Seongbuk-gu, Seoul, South Korea",
+        "mo_ta": "Kookmin University (KMU) là một trường đại học tư thục hàng đầu tại Hàn Quốc, được thành lập vào năm 1946 bởi phong trào độc lập sau khi giành được độc lập. Trường nổi tiếng về các chương trình kỹ thuật, thiết kế và quản trị kinh doanh, với khuôn viên xanh rộng lớn và môi trường học thuật năng động. KMU cam kết đào tạo những cá nhân có khả năng lãnh đạo và đóng góp cho xã hội.",
+        "website": "http://english.kookmin.ac.kr"
+    },
+    {
+        "ten_truong": "Korea Advanced Institute of Science and Technology (KAIST)",
+        "dia_chi": "291 Daehak-ro, Yuseong-gu, Daejeon, South Korea",
+        "mo_ta": "KAIST là một trong những trường đại học khoa học và công nghệ hàng đầu tại Hàn Quốc, nổi tiếng về nghiên cứu, đổi mới sáng tạo và giáo dục xuất sắc. Được thành lập vào năm 1971, trường đã đóng góp đáng kể vào sự phát triển khoa học công nghệ của đất nước và thế giới.",
+        "website": "https://www.kaist.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Korea (Korea University)",
+        "dia_chi": "145 Anam-ro, Anam-dong, Seongbuk-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Korea là một trong những trường đại học danh tiếng và lâu đời nhất tại Hàn Quốc, được thành lập vào năm 1905. Trường nổi tiếng với các chương trình học thuật xuất sắc, đặc biệt trong các lĩnh vực luật, y học, kinh doanh và khoa học xã hội. Đây là một phần của nhóm SKY (Seoul National University, Korea University, Yonsei University), ba trường đại học hàng đầu của Hàn Quốc.",
+        "website": "https://www.korea.ac.kr"
+    },
+    {
+        "ten_truong": "Kwangwoon University",
+        "dia_chi": "20 Kwangwoon-ro, Nowon-gu, Seoul, South Korea",
+        "mo_ta": "Đại học Kwangwoon là một trường đại học tư thục hàng đầu tại Hàn Quốc, nổi tiếng với các chương trình đào tạo về kỹ thuật, công nghệ thông tin và điện tử. Trường được thành lập vào năm 1934 và có uy tín cao trong lĩnh vực khoa học và công nghệ, đặc biệt là trong các lĩnh vực tiên tiến.",
+        "website": "https://www.kw.ac.kr"
+    },
+    {
+        "ten_truong": "Kyung Hee University",
+        "dia_chi": "26 Kyungheedae-ro, Dongdaemun-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Kyung Hee là một trường đại học tư thục hàng đầu tại Hàn Quốc, được thành lập vào năm 1949. Nổi tiếng với khuôn viên đẹp như tranh vẽ, đặc biệt là vào mùa xuân, trường cung cấp chương trình đào tạo chất lượng cao trong nhiều lĩnh vực, bao gồm khoa học xã hội và nhân văn, khoa học tự nhiên, y học, nghệ thuật và nghiên cứu quốc tế. Đại học Kyung Hee cam kết tạo ra một xã hội văn minh và thúc đẩy sự phát triển toàn cầu.",
+        "website": "www.khu.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Kyungpook",
+        "dia_chi": "80 Daehak-ro, Buk-gu, Daegu, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Kyungpook (KNU) là một trong mười trường đại học quốc gia hàng đầu tại Hàn Quốc, tọa lạc tại thành phố Daegu. KNU nổi tiếng với các chương trình học thuật và nghiên cứu xuất sắc trên nhiều lĩnh vực, là một cơ sở giáo dục uy tín và lâu đời.",
+        "website": "https://www.knu.ac.kr"
+    },
+    {
+        "ten_truong": "Pohang University of Science and Technology (POSTECH)",
+        "dia_chi": "77 Cheongam-ro, Nam-gu, Pohang, Gyeongbuk, South Korea",
+        "mo_ta": "POSTECH là một trong những trường đại học nghiên cứu hàng đầu của Hàn Quốc, nổi tiếng về khoa học và công nghệ. Trường được thành lập bởi tập đoàn POSCO vào năm 1986 với mục tiêu đào tạo các nhà khoa học và kỹ sư xuất sắc.",
+        "website": "www.postech.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Pukyong",
+        "dia_chi": "45 Yongso-ro, Nam-gu, Busan, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Pukyong (PKNU) là một trường đại học quốc gia có trụ sở tại Busan, Hàn Quốc. Trường được thành lập vào năm 1996 thông qua việc sáp nhập hai trường đại học quốc gia là Đại học Thủy sản Quốc gia Busan (thành lập năm 1941) và Đại học Công nghệ Quốc gia Busan (thành lập năm 1918). PKNU nổi tiếng với các chương trình đào tạo mạnh về thủy sản, khoa học biển, kỹ thuật và môi trường.",
+        "website": "https://www.pknu.ac.kr"
+    },
+    {
+        "ten_truong": "Pusan National University",
+        "dia_chi": "2 Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, South Korea",
+        "mo_ta": "Đại học Quốc gia Pusan là một trong mười trường đại học quốc gia hàng đầu tại Hàn Quốc, được thành lập năm 1946. Trường nổi tiếng với chất lượng giáo dục và nghiên cứu xuất sắc trên nhiều lĩnh vực, là trung tâm học thuật quan trọng ở khu vực phía nam Hàn Quốc.",
+        "website": "https://www.pusan.ac.kr/eng/"
+    },
+    {
+        "ten_truong": "Sejong University",
+        "dia_chi": "209 Neungdong-ro, Gwangjin-gu, Seoul, South Korea",
+        "mo_ta": "Sejong University là một trường đại học tư thục hàng đầu nằm ở Seoul, Hàn Quốc. Được thành lập vào năm 1940, trường nổi tiếng với các chương trình đào tạo chất lượng cao trong nhiều lĩnh vực, đặc biệt là quản lý khách sạn, nghệ thuật biểu diễn, phim ảnh, hoạt hình và khoa học máy tính. Sejong University cam kết thúc đẩy đổi mới, nghiên cứu và cung cấp môi trường học tập toàn diện cho sinh viên.",
+        "website": "https://www.sejong.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Quốc gia Seoul",
+        "dia_chi": "1 Gwanak-ro, Gwanak-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Quốc gia Seoul (SNU) là một trường đại học nghiên cứu công lập hàng đầu tại Seoul, Hàn Quốc. Được thành lập vào năm 1946, đây là một trong ba trường đại học SKY danh tiếng của Hàn Quốc, nổi tiếng về chất lượng giáo dục và nghiên cứu xuất sắc. SNU đã đào tạo nhiều nhà lãnh đạo, nhà khoa học và doanh nhân có ảnh hưởng.",
+        "website": "http://en.snu.ac.kr"
+    },
+    {
+        "ten_truong": "Seoul National University of Science and Technology (SeoulTech)",
+        "dia_chi": "232 Gongneung-ro, Nowon-gu, Seoul, South Korea",
+        "mo_ta": "SeoulTech là một trường đại học quốc gia hàng đầu tại Hàn Quốc, nổi tiếng về các chương trình kỹ thuật, khoa học và công nghệ. Trường tập trung vào nghiên cứu thực tế và hợp tác với ngành công nghiệp, đào tạo ra những chuyên gia có năng lực.",
+        "website": "www.seoultech.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Sogang",
+        "dia_chi": "35 Baekbeom-ro, Mapo-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Sogang là một trường đại học nghiên cứu tư thục nằm ở Seoul, Hàn Quốc. Trường được thành lập bởi Dòng Tên vào năm 1960. Trường nổi tiếng với các chương trình đào tạo mạnh về nhân văn, khoa học xã hội và kinh doanh.",
+        "website": "https://www.sogang.ac.kr/"
+    },
+    {
+        "ten_truong": "Sookmyung Women's University",
+        "dia_chi": "100 Cheongpa-ro 47-gil, Yongsan-gu, Seoul, South Korea",
+        "mo_ta": "Sookmyung Women's University là một trường đại học tư thục hàng đầu dành cho nữ sinh tại Seoul, Hàn Quốc. Được thành lập vào năm 1906, trường nổi tiếng với chất lượng giáo dục xuất sắc và các chương trình học thuật đa dạng, đặc biệt trong lĩnh vực khoa học xã hội, nhân văn, nghệ thuật và kỹ thuật. Trường cam kết đào tạo những nữ lãnh đạo tương lai và đóng góp vào sự phát triển của xã hội.",
+        "website": "eng.sookmyung.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Soonchunhyang",
+        "dia_chi": "22 Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, Hàn Quốc",
+        "mo_ta": "Đại học Soonchunhyang (SCH) là một trường đại học tư thục ở Hàn Quốc, được thành lập vào năm 1978. Trường nổi tiếng với các chương trình đào tạo mạnh về y học, khoa học sức khỏe, kỹ thuật và nhân văn. Trường đại học này chú trọng giáo dục thực tiễn, hợp tác quốc tế và nghiên cứu, với mục tiêu bồi dưỡng những tài năng đóng góp cho xã hội.",
+        "website": "www.sch.ac.kr"
+    },
+    {
+        "ten_truong": "Soongsil University",
+        "dia_chi": "369 Sangdo-ro, Dongjak-gu, Seoul, South Korea",
+        "mo_ta": "Đại học Soongsil là một trường đại học tư thục Cơ đốc giáo tại Hàn Quốc, được thành lập vào năm 1897 với tư cách là trường đại học hiện đại đầu tiên của Hàn Quốc. Trường nổi tiếng với các chương trình đào tạo mạnh về Công nghệ thông tin, kỹ thuật và kinh doanh.",
+        "website": "www.ssu.ac.kr"
+    },
+    {
+        "ten_truong": "Sungkyunkwan University",
+        "dia_chi": "25-2 Sungkyunkwan-ro, Jongno-gu, Seoul, Republic of Korea",
+        "mo_ta": "Đại học Sungkyunkwan (SKKU) là một trong những trường đại học tư thục hàng đầu tại Hàn Quốc, có lịch sử lâu đời bắt nguồn từ thời Goryeo. Được tái thành lập vào năm 1946, trường nổi tiếng với chất lượng giáo dục và nghiên cứu xuất sắc trong nhiều lĩnh vực.",
+        "website": "www.skku.edu"
+    },
+    {
+        "ten_truong": "Sungshin Women's University",
+        "dia_chi": "249 Bomun-ro, Seongbuk-gu, Seoul, South Korea",
+        "mo_ta": "Đại học Nữ sinh Sungshin là một trường đại học tư thục dành cho nữ giới tọa lạc tại Seoul, Hàn Quốc. Được thành lập vào năm 1936, trường nổi tiếng với các chương trình đào tạo mạnh mẽ trong lĩnh vực nghệ thuật, thiết kế và giáo dục.",
+        "website": "https://www.sungshin.ac.kr"
+    },
+    {
+        "ten_truong": "The Catholic University of Korea",
+        "dia_chi": "43 Jibong-ro, Bucheon-si, Gyeonggi-do, 14662, Republic of Korea",
+        "mo_ta": "Đại học Công giáo Hàn Quốc là một trường đại học tư thục Công giáo hàng đầu tại Hàn Quốc. Trường được thành lập bởi Giáo hội Công giáo và có các cơ sở tại Seoul và Bucheon. Trường nổi tiếng với các chương trình đào tạo về y học, thần học và nhân văn, đồng thời nhấn mạnh các giá trị Kitô giáo và sự xuất sắc trong học thuật.",
+        "website": "www.catholic.ac.kr"
+    },
+    {
+        "ten_truong": "Tongmyong University",
+        "dia_chi": "428 Sinseon-ro, Nam-gu, Busan, South Korea",
+        "mo_ta": "Đại học Tongmyong (TU) là một trường đại học tư thục ở Busan, Hàn Quốc. Trường được thành lập vào năm 1996 bởi Quỹ Giáo dục Tongmyong. Trường nổi tiếng với các chương trình mạnh về kỹ thuật, công nghệ thông tin và thiết kế, tập trung vào hợp tác công nghiệp-học thuật. Trường hướng tới việc đào tạo những cá nhân tài năng được trang bị kỹ năng thực tế và tầm nhìn toàn cầu.",
+        "website": "https://www.tu.ac.kr/"
+    },
+    {
+        "ten_truong": "Ulsan National Institute of Science and Technology (UNIST)",
+        "dia_chi": "50 UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, South Korea",
+        "mo_ta": "UNIST là một trong bốn viện khoa học và công nghệ hàng đầu ở Hàn Quốc, tập trung vào nghiên cứu và giáo dục trong các lĩnh vực khoa học và kỹ thuật tiên tiến, đặc biệt là năng lượng và vật liệu mới. Trường nổi tiếng với môi trường học thuật sáng tạo và thành tựu nghiên cứu nổi bật, đóng góp vào sự phát triển công nghiệp và khoa học của quốc gia.",
+        "website": "https://www.unist.ac.kr/"
+    },
+    {
+        "ten_truong": "Đại học Seoul",
+        "dia_chi": "163 Seoulsiripdae-ro, Dongdaemun-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Seoul (UOS) là một trường đại học công lập nằm ở Dongdaemun-gu, Seoul, Hàn Quốc. Được thành lập vào năm 1918, trường nổi tiếng với các chương trình học thuật chất lượng cao, đặc biệt trong các lĩnh vực khoa học đô thị, kỹ thuật và quản trị. Trường cam kết đào tạo những công dân có năng lực và đóng góp tích cực cho xã hội.",
+        "website": "https://www.uos.ac.kr"
+    },
+    {
+        "ten_truong": "University of Ulsan",
+        "dia_chi": "93 Daehak-ro, Nam-gu, Ulsan, South Korea",
+        "mo_ta": "University of Ulsan là một trường đại học tư thục nằm ở Ulsan, Hàn Quốc. Trường được thành lập vào năm 1970 bởi tập đoàn Hyundai. Nổi tiếng với các chương trình kỹ thuật, y khoa và kinh doanh, trường có mối quan hệ chặt chẽ với các ngành công nghiệp địa phương.",
+        "website": "https://www.ulsan.ac.kr/"
+    },
+    {
+        "ten_truong": "Woosong University",
+        "dia_chi": "171 Woosong-ro, Dong-gu, Daejeon, Republic of Korea",
+        "mo_ta": "Woosong University là một trường đại học tư thục tọa lạc tại Daejeon, Hàn Quốc. Trường nổi tiếng với các chương trình quốc tế hóa và tập trung vào các lĩnh vực như công nghệ thông tin, quản trị kinh doanh quốc tế, ẩm thực và khách sạn. Trường cung cấp một môi trường học tập đa văn hóa và nhiều cơ hội thực tập, hợp tác quốc tế, đào tạo sinh viên sẵn sàng cho thị trường lao động toàn cầu.",
+        "website": "https://www.wsu.ac.kr/"
+    },
+    {
+        "ten_truong": "Yeungnam University",
+        "dia_chi": "280 Daehak-ro, Gyeongsan-si, Gyeongsangbuk-do, South Korea",
+        "mo_ta": "Yeungnam University là một trong những trường đại học tư thục hàng đầu tại Hàn Quốc, tọa lạc tại thành phố Gyeongsan, tỉnh Gyeongsangbuk. Trường được thành lập năm 1967 thông qua sự sáp nhập của Đại học Daegu và Cao đẳng Chunggu. Yeungnam nổi tiếng với các chương trình đào tạo đa dạng từ khoa học tự nhiên, kỹ thuật, y học đến khoa học xã hội và nhân văn. Với cơ sở vật chất hiện đại và nhiều trung tâm nghiên cứu, trường thu hút sinh viên quốc tế và đóng góp đáng kể vào nghiên cứu khoa học cũng như phát triển khu vực.",
+        "website": "eng.yu.ac.kr"
+    },
+    {
+        "ten_truong": "Đại học Yonsei",
+        "dia_chi": "50 Yonsei-ro, Seodaemun-gu, Seoul, Hàn Quốc",
+        "mo_ta": "Đại học Yonsei là một trong ba trường đại học SKY danh giá của Hàn Quốc (cùng với Đại học Quốc gia Seoul và Đại học Hàn Quốc). Được thành lập vào năm 1885, đây là một trong những trường đại học lâu đời và uy tín nhất Hàn Quốc, nổi tiếng về chất lượng giáo dục xuất sắc và nghiên cứu tiên tiến trên nhiều lĩnh vực.",
+        "website": "https://www.yonsei.ac.kr/en/"
+    },
+    {
+        "ten_truong": "Đại học Youngsan",
+        "dia_chi": "142 Bansongsunhwan-ro, Haeundae-gu, Busan, Hàn Quốc",
+        "mo_ta": "Đại học Youngsan là một trường đại học tư thục tại Hàn Quốc, được thành lập vào năm 1973. Trường nổi tiếng với phương pháp giáo dục thực tiễn và sự hợp tác chặt chẽ với các ngành công nghiệp, đặc biệt trong các lĩnh vực như du lịch, quản lý khách sạn, công nghệ thông tin và thiết kế. Trường có mục tiêu đào tạo ra những nhà lãnh đạo toàn cầu.",
+        "website": "https://www.ysu.ac.kr/"
+    }
+]
